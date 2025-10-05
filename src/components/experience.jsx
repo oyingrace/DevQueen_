@@ -10,15 +10,15 @@ const Experience = () => {
       <div className={`flex flex-col ml-3 lg:items-end`}>
         <div className="font-pop">
           <h2
-            className={`h-full flex items-center ml-0 lg:ml-20 font-clashbold text-white text-[20px] font-semibold lg:text- lg:text-[50px] lg:leading-[49.2px]`}
+            className={`h-full flex items-center font-clashbold text-white text-[20px] font-semibold lg:text-[50px] lg:leading-[49.2px]`}
           >
-            Experience <small className={`animate-bounce`}>🚀</small>
+            Experience 
           </h2>
-          <p
+         {/*  <p
             className={`font-medium text-[#FFFFFF99] text-[15px] leading-[22.5px] text-left lg:text-[20px] lg:leading-[30px]]`}
           >
             some of my experiences accross various roles
-          </p>
+          </p> */}
         </div>
         <div className="flex flex-row relative z-[100]  lg:justify-between mt-[30px]">
           <div className="w-0.5 h-[940px] lg:h-[740px] bg-[#1ED7601A]"></div>

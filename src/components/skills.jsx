@@ -17,7 +17,7 @@ const Skills = () => {
             <h2
               className={`flex items-center font-clashbold text-white font-semibold text-[20px] leading-[24.6px] lg:text-[60px] lg:leading-[49.2px]`}
             >
-              Skills <small className="animate-bounce">🤹‍♂️</small>
+              Skills {/* <small className="animate-bounce">🤹‍♂️</small> */}
             </h2>
             <p
               className={`font-medium text-[#FFFFFF99] text-[15px] leading-[22.5px] lg:text-[20px] lg:leading-[30px] lg:tracking-wide`}

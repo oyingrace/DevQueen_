@@ -7,7 +7,7 @@ const Services = () => {
         <h1
           className={`flex items-center font-clashbold font-semibold text-white text-[20px] leading-[30.75px] lg:text-[60px] lg:leading-[73.8px]`}
         >
-          My Expertise <span className={`animate-bounce`}>🔥</span>
+          My Expertise {/* <span className={`animate-bounce`}>🔥</span> */}
         </h1>
         <p
           className={`text-[#FFFFFF99] font-medium text-[15px] leading-[22.5px]  lg:text-[18px] lg:leading-[27px]`}
