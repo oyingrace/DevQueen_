@@ -14,11 +14,11 @@ const Experience = () => {
           >
             Experience 
           </h2>
-         {/*  <p
+          <p
             className={`font-medium text-[#FFFFFF99] text-[15px] leading-[22.5px] text-left lg:text-[20px] lg:leading-[30px]]`}
           >
             some of my experiences accross various roles
-          </p> */}
+          </p>
         </div>
         <div className="flex flex-row relative z-[100]  lg:justify-between mt-[30px]">
           <div className="w-0.5 h-[940px] lg:h-[740px] bg-[#1ED7601A]"></div>
