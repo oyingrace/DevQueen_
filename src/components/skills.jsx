@@ -27,7 +27,7 @@ const Skills = () => {
           </div>
           <div className="w-fit">
             <div
-              className={`mt-[31px] grid grid-cols-1 md:grid md:grid-cols-2 md:space-y-0 md:gap-3 space-y-[18.67px] lg:mt-[36px] lg:grid-cols-2 lg:space-y-0 lg:gap-[20px]`}
+              className={`mt-[31px] grid grid-cols-1 md:grid md:grid-cols-2 md:space-y-0 md:gap-3 space-y-[18.67px] lg:mt-[36px] lg:grid-cols-3 lg:space-y-0 lg:gap-[20px]`}
             >
               <motion.div
                 whileHover={{ scale: 0.96 }}
