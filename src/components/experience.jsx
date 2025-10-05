@@ -1,6 +1,6 @@
 import Resume from "./resume";
 import { ExpCircle } from "./svgs";
-import resumeUrl from "../utils/ovt.pdf";
+import resumeUrl from "../utils/grace-odah.pdf";
 
 const Experience = () => {
   // console.log("resume", resumeUrl)
@@ -17,7 +17,7 @@ const Experience = () => {
           <p
             className={`font-medium text-[#FFFFFF99] text-[15px] leading-[22.5px] text-left lg:text-[20px] lg:leading-[30px]]`}
           >
-            Some list of my experience over the year..
+            some of my experiences accross various roles
           </p>
         </div>
         <div className="flex flex-row relative z-[100]  lg:justify-between mt-[30px]">
@@ -32,25 +32,20 @@ const Experience = () => {
 
               <div>
                 <h3 className="font-semibold text-white lg:text-[20px] lg:leading-[30px]  ">
-                  Software Engineer <span className="hidden">-</span> &nbsp;
-                  <span className="hidden italic text-[#FFFFFF99]">
-                    2023 - till date
+                  Chief Technical Officer <span className="">-</span> &nbsp;
+                  <span className="italic text-xs md:text-base text-[#FFFFFF99]">
+                     Feb 2025 - Sept 2025
                   </span>
                 </h3>
                 <p
                   className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
-                  Showmeelove -{" "}
-                  <span className="italic animate-pulse text-[#FFFFFF99] text-sm">
-                    some idea im building
-                  </span>
+                  Hammet Labs
                 </p>
                 <h5
                   className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}
                 >
-                  I work as a Lead Frontend Engineer at showmeelove, crafting
-                  thoughtful and inclusive experiences that adhere to web
-                  standards.
+                  I lead the technical vision and development at Hammet Labs, building AI-powered learning platforms that merge education and Web3. My focus is on architecting scalable systems, guiding product direction, and translating ideas into innovative, user-centered solutions.
                 </h5>
               </div>
             </div>
@@ -63,22 +58,20 @@ const Experience = () => {
 
               <div>
                 <h3 className="font-semibold text-white lg:text-[20px] lg:leading-[30px]  ">
-                  Fullstack Developer <span>-</span>&nbsp;
+                  Blockchain contributor <span>-</span>&nbsp;
                   <span className="text-xs md:text-base italic text-[#FFFFFF99]">
-                    March, 2024 - till date
+                    Sept 2025 - till date
                   </span>
                 </h3>
                 <p
                   className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
-                  Zero Studio, India.
+                  H.E.R. DAO
                 </p>
                 <h5
                   className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}
                 >
-                  Collaborated with UX and UI designers to create intuitive user
-                  interfaces for web applications. Troubleshot bugs in
-                  production code and resolved them efficiently.
+                 Contributed to advocacy content, community research and strategy, focusing on the role of Web3 communities in driving inclusion, education, and empowerment.
                 </h5>
               </div>
             </div>
@@ -91,23 +84,22 @@ const Experience = () => {
 
               <div>
                 <h3 className="font-semibold text-white lg:text-[20px] lg:leading-[30px]  ">
-                  Frontend Engineer&nbsp;
-                  <span className="hidden">-</span> &nbsp;
-                  <span className="italic hidden text-[#FFFFFF99]">
-                    2023 - till date
+                  Blockchain Engineer&nbsp;
+                  <span className="">-</span> &nbsp;
+                  <span className="italic text-xs md:text-base text-[#FFFFFF99]">
+                   Nov 2024 - May 2025
                   </span>
                 </h3>
                 <p
                   className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
-                  TekArt, Lagos, NG.
+                  OminiPay, Lagos, NG.
                 </p>
                 <h5
                   className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}
                 >
-                  I work as a frontend developer with the responsibility of
-                  building and managing the websites with a team of Creative
-                  developers.
+                  I work as a developer with the responsibility of
+                  integrating Solana wallet functionality into a mobile app.
                 </h5>
               </div>
             </div>
@@ -147,23 +139,24 @@ const Experience = () => {
                 <h3 className="font-semibold text-white lg:text-[20px] lg:leading-[30px]  ">
                   Creative Web Developer
                 </h3>
+              
                 <p
                   className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
-                  Vistapay, Uyo, Ng.
+                  Konoha
                 </p>
                 <h5
                   className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}
                 >
-                  I work as a frontend developer building the system of the
-                  company, creating beautiful interfaces that user loves.
+                  I worked as a web developer building the system of the
+                  university, making students onboarding seamless.
                 </h5>
               </div>
             </div>
             {/* RESUME */}
             <Resume
               pdfUrl={resumeUrl}
-              fileName="Victor Olatunji.pdf"
+              fileName="Grace-Odah.pdf"
               buttonText="Download Resume"
             />
           </div>
