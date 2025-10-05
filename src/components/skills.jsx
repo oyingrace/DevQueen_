@@ -43,39 +43,7 @@ const Skills = () => {
                   <p
                     className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
                   >
-                    Html
-                  </p>
-                </div>
-              </motion.div>
-              <motion.div
-                whileHover={{ scale: 0.96 }}
-                ref={sectionRef}
-                initial={{ opacity: 0, x: 300 }}
-                transition={{ duration: 0.6 }}
-                whileInView={{ opacity: 1, x: 0 }}
-                className="bg-gradient-to-b max-w-[369px] lg:max-w-[252px] to-[#C8C8C880] from-[#C5F4FF00] pb-0.5 pl-0.5"
-              >
-                <div
-                  className={`bg-[#0A1C20]  px-[20px] py-[23px] lg:h-[100px] lg:max-w-full lg:w-[250px] lg:px-[32px] lg:py-[35px]`}
-                >
-                  <p
-                    className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
-                  >
-                    Css
-                  </p>
-                </div>
-              </motion.div>
-              <motion.div
-                whileHover={{ scale: 0.96 }}
-                className="bg-gradient-to-r max-w-[369px] lg:max-w-[252px] to-[#C8C8C880] from-[#C5F4FF00] pr-0.5 pt-0.5"
-              >
-                <div
-                  className={`bg-[#0A1C20]  px-[20px] py-[23px] lg:h-[100px] lg:max-w-full lg:w-[250px] lg:px-[32px] lg:py-[35px]`}
-                >
-                  <p
-                    className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
-                  >
-                    Bootstrap
+                   TailwindCSS
                   </p>
                 </div>
               </motion.div>
@@ -89,7 +57,7 @@ const Skills = () => {
                   <p
                     className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
                   >
-                    TailwindCSS
+                    TypeScript
                   </p>
                 </div>
               </motion.div>
@@ -100,24 +68,6 @@ const Skills = () => {
                 // transition={{ duration: 0.6 }}
                 // whileInView={{ opacity: 1, x: 0, y: 0 }}
                 className="bg-gradient-to-r max-w-[369px] lg:max-w-[252px] to-[#C8C8C880] from-[#C5F4FF00] pr-0.5 pt-0.5"
-              >
-                <div
-                  className={`bg-[#0A1C20]  px-[20px] py-[23px] lg:h-[100px] lg:max-w-full lg:w-[250px] lg:px-[32px] lg:py-[35px]`}
-                >
-                  <p
-                    className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
-                  >
-                    SCSS
-                  </p>
-                </div>
-              </motion.div>
-              <motion.div
-                whileHover={{ scale: 0.96 }}
-                // ref={sectionRef}
-                // initial={{ opacity: 0, x: -300 }}
-                // transition={{ duration: 0.6 }}
-                // whileInView={{ opacity: 1, x: 0 }}
-                className="bg-gradient-to-b max-w-[369px]  lg:max-w-[252px] to-[#C8C8C880] from-[#C5F4FF00] pb-0.5 pl-0.5"
               >
                 <div
                   className={`bg-[#0A1C20]  px-[20px] py-[23px] lg:h-[100px] lg:max-w-full lg:w-[250px] lg:px-[32px] lg:py-[35px]`}
@@ -143,7 +93,25 @@ const Skills = () => {
                   <p
                     className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
                   >
-                    TypeScript
+                    ReactJs
+                  </p>
+                </div>
+              </motion.div>
+              <motion.div
+                whileHover={{ scale: 0.96 }}
+                // ref={sectionRef}
+                // initial={{ opacity: 0, x: -300 }}
+                // transition={{ duration: 0.6 }}
+                // whileInView={{ opacity: 1, x: 0 }}
+                className="bg-gradient-to-b max-w-[369px]  lg:max-w-[252px] to-[#C8C8C880] from-[#C5F4FF00] pb-0.5 pl-0.5"
+              >
+                <div
+                  className={`bg-[#0A1C20]  px-[20px] py-[23px] lg:h-[100px] lg:max-w-full lg:w-[250px] lg:px-[32px] lg:py-[35px]`}
+                >
+                  <p
+                    className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
+                  >
+                    NextJs
                   </p>
                 </div>
               </motion.div>
@@ -161,7 +129,7 @@ const Skills = () => {
                   <p
                     className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
                   >
-                    JQuery
+                    Solidity
                   </p>
                 </div>
               </motion.div>
@@ -207,24 +175,12 @@ const Skills = () => {
                   <p
                     className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
                   >
-                    ReactJs
+                    Hardhat
                   </p>
                 </div>
               </motion.div>
-              <motion.div
-                whileHover={{ scale: 0.96 }}
-                className="bg-gradient-to-r max-w-[369px] lg:max-w-[252px] to-[#C8C8C880] from-[#C5F4FF00] pr-0.5 pt-0.5"
-              >
-                <div
-                  className={`bg-[#0A1C20]  px-[20px] py-[23px] lg:h-[100px] lg:max-w-full lg:w-[250px] lg:px-[32px] lg:py-[35px]`}
-                >
-                  <p
-                    className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
-                  >
-                    NextJs
-                  </p>
-                </div>
-              </motion.div>
+             
+             
               <motion.div
                 whileHover={{ scale: 0.96 }}
                 className="bg-gradient-to-b max-w-[369px]  lg:max-w-[252px] to-[#C8C8C880] from-[#C5F4FF00] pb-0.5 pl-0.5"
@@ -235,35 +191,7 @@ const Skills = () => {
                   <p
                     className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
                   >
-                    Framer-Motion
-                  </p>
-                </div>
-              </motion.div>
-              <motion.div
-                whileHover={{ scale: 0.96 }}
-                className="bg-gradient-to-r max-w-[369px] lg:max-w-[252px] to-[#C8C8C880] from-[#C5F4FF00] pr-0.5 pt-0.5"
-              >
-                <div
-                  className={`bg-[#0A1C20]  px-[20px] py-[23px] lg:h-[100px] lg:max-w-full lg:w-[250px] lg:px-[32px] lg:py-[35px]`}
-                >
-                  <p
-                    className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
-                  >
-                    Figma
-                  </p>
-                </div>
-              </motion.div>
-              <motion.div
-                whileHover={{ scale: 0.96 }}
-                className="bg-gradient-to-b max-w-[369px]  lg:max-w-[252px] to-[#C8C8C880] from-[#C5F4FF00] pb-0.5 pl-0.5"
-              >
-                <div
-                  className={`bg-[#0A1C20]  px-[20px] py-[23px] lg:h-[100px] lg:max-w-full lg:w-[250px] lg:px-[32px] lg:py-[35px]`}
-                >
-                  <p
-                    className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
-                  >
-                    Photoshop
+                    AI Integration
                   </p>
                 </div>
               </motion.div>
@@ -281,35 +209,8 @@ const Skills = () => {
                   </p>
                 </div>
               </motion.div>
-              <motion.div
-                whileHover={{ scale: 0.96 }}
-                className="bg-gradient-to-b max-w-[369px]  lg:max-w-[252px] to-[#C8C8C880] from-[#C5F4FF00] pb-0.5 pl-0.5"
-              >
-                <div
-                  className={`bg-[#0A1C20]  px-[20px] py-[23px] lg:h-[100px] lg:max-w-full lg:w-[250px] lg:px-[32px] lg:py-[35px]`}
-                >
-                  <p
-                    className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
-                  >
-                    Backend Development
-                  </p>
-                </div>
-              </motion.div>
-              <motion.div
-                title="loading... expect greatness!"
-                whileHover={{ scale: 0.96 }}
-                className="bg max-w-[369px] bg-gradient-to-r lg:max-w-[252px] to-[#C8C8C880] from-[#C5F4FF00] pr-0.5 pt-0.5"
-              >
-                <div
-                  className={`bg-[#0A1C20]  px-[20px] py-[23px] lg:h-[100px] lg:max-w-full lg:w-[250px] lg:px-[32px] lg:py-[35px]`}
-                >
-                  <p
-                    className={`text-white tracking-[10px] font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
-                  >
-                    ...
-                  </p>
-                </div>
-              </motion.div>
+            
+             
             </div>
             {/* <div
               className={`mt-[31px] grid w-full grid-cols-1 md:grid md:grid-cols-2 md:space-y-0 md:gap-3 space-y-[18.67px] lg:mt-[36px] lg:grid-cols-3 lg:space-y-0 lg:gap-[24px]`}
