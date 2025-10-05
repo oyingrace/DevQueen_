@@ -51,12 +51,12 @@ const Contact = () => {
           </div>
           <a
             className={`text-[#FFFFFF99] font-medium text-base md:text-[20px] md:leading-[30px]`}
-            href="mailto:victoluolatunji@gmail.com"
+            href="mailto:oyingrace307@gmail.com"
           >
-            victoluolatunji@gmail.com
+            oyingrace307@gmail.com
           </a>
         </div>
-        <div className="flex flex-col items-center gap-[10px]">
+        {/* <div className="flex flex-col items-center gap-[10px]">
           <div className="bg-gradient-to-r to-[#CFFAFF] from-[#CFFAFF00] pr-[1px] pt-[1px] max-w-[75px] max-h-[50px]">
             <PhoneIcon
               className={`w-[30px] h-[30px] p-2 md:p-[5px] bg-[#061417] md:w-[36px] md:h-[36px]`}
@@ -68,22 +68,8 @@ const Contact = () => {
           >
             +2349075789680
           </a>
-        </div>
-        <div className="flex flex-col items-center gap-[10px]">
-          <div className="bg-gradient-to-l from-[#CFFAFF] to-[#CFFAFF00] pr-[1px] pt-[1px] max-w-[75px] max-h-[75px]">
-            <LocationIcon
-              className={`w-[30px] h-[30px] p-2 md:p-[5px] bg-[#061417] md:w-[36px] md:h-[36px]`}
-            />
-          </div>
-          <p
-            className={`text-[#FFFFFF99] text-base mx-auto text-center font-medium md:text-[20px] md:leading-[30px]`}
-          >
-            {timeOfDay === "morning" && <span>metaverse!⚡</span>}
-            {timeOfDay === "afternoon" && <span>localhost:3000</span>}
-            {timeOfDay === "evening" && <span>127.0.0.1:5500</span>}
-            {/* {timeOfDay === "evening" && <span>somewhere in the metaverse</span>} */}
-          </p>
-        </div>
+        </div> */}
+       
       </div>
     </section>
   );

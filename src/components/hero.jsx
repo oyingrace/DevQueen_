@@ -11,11 +11,11 @@ const Hero = () => {
               <h1
               // className={`font-clashbold font-semibold text-[40px] leading-[36.9px] text-[#CFFAFF] md:leading-[4 5px] md:text-[35px] md:max-w-max lg:leading-[73.8px] lg:max-w-[580px] lg:text-[60px] `}
               >
-                Creative Frontend Developer<span>.</span>
+                FullStack Blockchain Developer<span>.</span>
               </h1>
             </div>
             <p className="gradientText font-medium font-pop text-[15px] text-[#FFFFFF99] max-w-[353px] mt-[45px] md:mt-8 lg:mt-1 md:max-w-[639px] md:text-[18px] leading-md:[27px]">
-              I like to craft solid and scalable frontend products with great
+              I like to build secure and scalable blockchain products with seamless
               user experiences.
             </p>
             <div
@@ -23,17 +23,17 @@ const Hero = () => {
               className="text-[#F0FEFF] font-pop flex-shrink-0 text-[.9em] leading-[1.5] font-medium mt-[40px] flex flex-col gap-8 md:flex md:flex-col md:gap-[20px] md:mt-[45px] lg:flex lg:flex-row lg:items-start lg:gap-[12px]"
             >
               <p className="max-w-[310px]">
-                1+ Years of experience. Specialized in building products, while
-                ensuring a seamless web experience for clients across africa.
+                3+ Years of experience. Specialized in fullstack and blockchain development,
+                delivering products that connect web2 and web3.
               </p>
               <p className="max-w-[319px]">
-                Highly skilled at progressive enhancement, design systems & UI
-                Engineering - performance and scalability are top objectives on
-                my radar.
+                Skilled in smart contracts, dApp architecture & multi-chain integrations —
+                with performance and security as top priorities.
               </p>
             </div>
+
             <div className="mt-[35px] md:mt-[65px] flex justify-start items-center  gap-[26px] md:gap-[40px]">
-              <motion.a
+             {/*  <motion.a
                 href="https://web.facebook.com/victortoluu"
                 target="_blank"
                 rel="noreferrer"
@@ -45,9 +45,9 @@ const Hero = () => {
                   fill="#1ED760"
                   className={`w-[30px] h-[30px] rounded-full border-[#1ED760] border-solid border-[2px] p-0.5  transition-all duration-500 hover:bg-white`}
                 />
-              </motion.a>
+              </motion.a> */}
               <motion.a
-                href="https://twitter.com/HeyVickyJay"
+                href="https://x.com/devqueen_"
                 target="_blank"
                 rel="noreferrer"
                 whileTap={{ scale: 1.1 }}
@@ -60,7 +60,7 @@ const Hero = () => {
                 />
               </motion.a>
               <motion.a
-                href="https://www.instagram.com/vickyjayox"
+                href="https://www.instagram.com/devqueenn"
                 target="_blank"
                 rel="noreferrer"
                 whileTap={{ scale: 1.1 }}
@@ -73,7 +73,7 @@ const Hero = () => {
                 />
               </motion.a>
               <motion.a
-                href="https://www.linkedin.com/in/victor-olatunji-889568246"
+                href="https://www.linkedin.com/in/odah-grace"
                 target="_blank"
                 rel="noreferrer"
                 whileTap={{ scale: 1.1 }}
@@ -91,7 +91,7 @@ const Hero = () => {
             <div className="relative flex flex-col justify-center w-max">
               <div className={`w-full`}>
                 <img
-                  src="/images/hero.png"
+                  src="/images/herod.png"
                   alt="hero image is here"
                   className="absolute w-full h-full bottom-3 right-4 md:bottom-5 md:right-6 lg:bottom-10 lg:right-12"
                   draggable={false}

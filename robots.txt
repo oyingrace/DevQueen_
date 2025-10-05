@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: /private/
-Sitemap: https://victorola.dev/sitemap.xml

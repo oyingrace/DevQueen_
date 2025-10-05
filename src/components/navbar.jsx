@@ -26,7 +26,7 @@ const Navbar = () => {
                       : "text-white hover:before:w-full"
                   } relative`}
                 >
-                  VickyJay<span>!</span>
+                  DevQueen<span>!</span>
                   <span>⚡</span>
                 </div>
               )}
@@ -35,7 +35,7 @@ const Navbar = () => {
               <Link
                 target="_blank"
                 rel="noreferrer"
-                to="https://www.github.com/victorola-coder"
+                to="https://www.github.com/oyingrace"
                 className="group-hover:text-white transition-colors duration-300"
               >
                 <span className="flex items-center gap-[8px] md:gap-[10px]">

@@ -25,14 +25,14 @@ const Footer = () => {
               <Copyright className="size-[18px] md:size-[20px]" />
             </span>
             <p className={`text-[#FFFFFF99] md:text-xl text-lg font-medium`}>
-              Victorola
+              DevQueen
               <span className="text-[#FFFFFF] text-[14px] lg:text-base">
                 {" "}
-                2021 -
-              </span>{" "}
-              <span className="text-[#FFFFFF] text-[14px] lg:text-base">
-                {new Date().getFullYear()}
+                2025 
               </span>
+            {/*   <span className="text-[#FFFFFF] text-[14px] lg:text-base">
+                {new Date().getFullYear()}
+              </span> */}
             </p>
           </div>
           <p className="text-[#FFFFFF99] transition-all duration-300 text-end text-sm lg:text-base mt-1">
@@ -40,7 +40,7 @@ const Footer = () => {
           </p>
         </div>
         <div className="mt-[10px] md:mt-[65px] flex justify-start items-center gap-[20px] md:gap-[40px]">
-          <motion.a
+          {/* <motion.a
             href="https://web.facebook.com/victortoluu"
             target="_blank"
             rel="noreferrer"
@@ -52,7 +52,7 @@ const Footer = () => {
               fill={`#FFFFFF99`}
               className={`w-[30px] h-[30px] rounded-full border-[#FFFFFF99] border-solid border-[2px] p-0.5  transition-all duration-500 hover:bg-gray-500`}
             />
-          </motion.a>
+          </motion.a> */}
           <motion.a
             href="https://twitter.com/HeyVickyJay"
             target="_blank"
@@ -67,7 +67,7 @@ const Footer = () => {
             />
           </motion.a>
           <motion.a
-            href="https://www.instagram.com/vickyjayox"
+            href="https://www.instagram.com/devqueenn"
             target="_blank"
             rel="noreferrer"
             whileTap={{ scale: 1.1 }}
@@ -80,7 +80,7 @@ const Footer = () => {
             />
           </motion.a>
           <motion.a
-            href="https://www.linkedin.com/in/victor-olatunji-889568246"
+            href="https://www.linkedin.com/in/odah-grace"
             target="_blank"
             rel="noreferrer"
             whileTap={{ scale: 1.1 }}
