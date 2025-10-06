@@ -55,8 +55,8 @@ const Hero = () => {
                 className={`h-auto w-auto`}
               >
                 <TwIcon
-                  fill={`#1ED760`}
-                  className={`w-[30px] h-[30px] rounded-full border-[#1ED760] border-solid border-[2px] p-1  transition-all duration-500 hover:bg-white`}
+                  fill={`#F3533F`}
+                  className={`w-[30px] h-[30px] rounded-full border-[#F3533F] border-solid border-[2px] p-1  transition-all duration-500 hover:bg-white`}
                 />
               </motion.a>
               <motion.a
@@ -68,8 +68,8 @@ const Hero = () => {
                 className={`h-auto w-auto`}
               >
                 <IgIcon
-                  fill={`#1ED760`}
-                  className={`w-[30px] h-[30px] rounded-full border-[#1ED760] border-solid border-[2px] p-0.5  transition-all duration-500 hover:bg-white`}
+                  fill={`#F3533F`}
+                  className={`w-[30px] h-[30px] rounded-full border-[#F3533F] border-solid border-[2px] p-0.5  transition-all duration-500 hover:bg-white`}
                 />
               </motion.a>
               <motion.a
@@ -81,8 +81,8 @@ const Hero = () => {
                 className={`h-auto w-auto`}
               >
                 <InIcon
-                  fill={`#1ED760`}
-                  className={`w-[30px] h-[30px] rounded-full border-[#1ED760] border-solid border-[2px] p-0.5  transition-all duration-700 hover:bg-white`}
+                  fill={`#F3533F`}
+                  className={`w-[30px] h-[30px] rounded-full border-[#F3533F] border-solid border-[2px] p-0.5  transition-all duration-700 hover:bg-white`}
                 />
               </motion.a>
             </div>
@@ -99,7 +99,7 @@ const Hero = () => {
                 />
               </div>
               <motion.div
-                className={`shrink-0 w-[300px] h-[300px] lg:min-w-[400px] lg:min-h-[400px] border-[3px] border-[#1ED760]`}
+                className={`shrink-0 w-[300px] h-[300px] lg:min-w-[400px] lg:min-h-[400px] border-[3px] border-[#F3533F]`}
               ></motion.div>
             </div>
           </div>

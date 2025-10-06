@@ -38,7 +38,7 @@ const Experience = () => {
                   </span>
                 </h3>
                 <p
-                  className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
+                  className={`text-[#F3533F] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
                   Hammet Labs
                 </p>
@@ -64,7 +64,7 @@ const Experience = () => {
                   </span>
                 </h3>
                 <p
-                  className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
+                  className={`text-[#F3533F] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
                   H.E.R. DAO
                 </p>
@@ -91,7 +91,7 @@ const Experience = () => {
                   </span>
                 </h3>
                 <p
-                  className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
+                  className={`text-[#F3533F] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
                   OminiPay, Lagos, NG.
                 </p>
@@ -103,31 +103,6 @@ const Experience = () => {
                 </h5>
               </div>
             </div>
-            {/* <div className="flex gap-[28px] lg:gap-[48px]">
-              <div className="relative">
-                <span className="absolute -top-1 -translate-x-[55%] lg:translate-x-[-50%]">
-                  <ExpCircle />
-                </span>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-white lg:text-[20px] lg:leading-[30px]  ">
-                  Web Developer
-                </h3>
-                <p
-                  className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
-                >
-                  Flowday
-                </p>
-                <h5
-                  className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}
-                >
-                  I work as a frontend developer integrating the figma design
-                  under a senior developer, I aced my skills of connecting
-                  frontend to backend.
-                </h5>
-              </div>
-            </div> */}
             <div className="relative flex gap-[28px] lg:gap-[48px]">
               <div className="relative">
                 <span className="absolute -top-1 -translate-x-[55%] lg:translate-x-[-50%]">
@@ -141,7 +116,7 @@ const Experience = () => {
                 </h3>
               
                 <p
-                  className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
+                  className={`text-[#F3533F] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
                   Konoha
                 </p>
