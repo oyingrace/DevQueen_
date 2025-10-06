@@ -1,10 +1,10 @@
 const image =
-  "https://res.cloudinary.com/dkoe20rzl/image/upload/v1692130992/cover_xhnhes.png";
-const creator = "VickyJay";
+  "https://res.cloudinary.com/dqqado0lv/image/upload/v1759744799/devqueen-website-cover_rrhnhi.png";
+const creator = "DevQueen";
 const author = creator;
 
 export const url = (slug) => {
-  return `https://victorola.dev/${slug ?? ""}`;
+  return `https://devqueen.xyz/${slug ?? ""}`;
 };
 export const SEOdata = {
   homePage: {
@@ -12,8 +12,8 @@ export const SEOdata = {
     image,
     creator,
     url: url(),
-    title: "VickyJay - Creative Frontend Engineer",
+    title: "DevQueen - FullStack Blockchain Developer",
     description:
-      "I enjoy creating frontend solutions with solid foundations, scalability, and excellent user experiences.",
+      "I enjoy creating blockchain solutions with solid foundations, scalability, and excellent user experiences.",
   },
 };

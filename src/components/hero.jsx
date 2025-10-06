@@ -33,19 +33,7 @@ const Hero = () => {
             </div>
 
             <div className="mt-[35px] md:mt-[65px] flex justify-start items-center  gap-[26px] md:gap-[40px]">
-             {/*  <motion.a
-                href="https://web.facebook.com/victortoluu"
-                target="_blank"
-                rel="noreferrer"
-                whileTap={{ scale: 1.1 }}
-                whileHover={{ scale: 0.99 }}
-                className="h-auto w-auto"
-              >
-                <FbIcon
-                  fill="#1ED760"
-                  className={`w-[30px] h-[30px] rounded-full border-[#1ED760] border-solid border-[2px] p-0.5  transition-all duration-500 hover:bg-white`}
-                />
-              </motion.a> */}
+            
               <motion.a
                 href="https://x.com/devqueen_"
                 target="_blank"

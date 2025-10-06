@@ -40,19 +40,7 @@ const Footer = () => {
           </p>
         </div>
         <div className="mt-[10px] md:mt-[65px] flex justify-start items-center gap-[20px] md:gap-[40px]">
-          {/* <motion.a
-            href="https://web.facebook.com/victortoluu"
-            target="_blank"
-            rel="noreferrer"
-            whileTap={{ scale: 1.1 }}
-            whileHover={{ scale: 0.99 }}
-            className="h-auto w-auto"
-          >
-            <FbIcon
-              fill={`#FFFFFF99`}
-              className={`w-[30px] h-[30px] rounded-full border-[#FFFFFF99] border-solid border-[2px] p-0.5  transition-all duration-500 hover:bg-gray-500`}
-            />
-          </motion.a> */}
+        
           <motion.a
             href="https://twitter.com/devqueen_"
             target="_blank"
