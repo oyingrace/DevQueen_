@@ -12,11 +12,7 @@ const Navbar = () => {
           )}
         >
           <nav className="flex items-center justify-between">
-            {/* <h2
-              className={`font-clashbold font-semibold text-[18px] md:text-[25px] leading-[]`}
-            >
-              VickyJay<span>.</span>
-            </h2> */}
+            
             <NavLink to="/">
               {({ isActive }) => (
                 <div

@@ -54,7 +54,7 @@ const Footer = () => {
             />
           </motion.a> */}
           <motion.a
-            href="https://twitter.com/HeyVickyJay"
+            href="https://twitter.com/devqueen_"
             target="_blank"
             rel="noreferrer"
             whileTap={{ scale: 1.1 }}
@@ -96,29 +96,17 @@ const Footer = () => {
       </div>
 
       {/* Shout out */}
-      <div className="hidden  flex_ flex-col gap-2 items-start justify-center text-center font-medium text-[#FFFFFF99] text-xs *:max-w-[320px] *:md:max-w-[992px] md:text-[18px]">
+      <div className=" flex_ flex-col gap-2 items-start justify-center text-center font-medium text-[#FFFFFF99] text-xs *:max-w-[320px] *:md:max-w-[992px] md:text-[18px]">
         <h3>
-          Inspiration -&nbsp;
+          Inspired by -&nbsp;
           <Link
             target="_blank"
             rel="noreferrer noopener"
-            to="https://www.pariola.dev/"
+            to="https://www.victorola.dev/"
             className="text-white cursor-pointer"
             title="you might need internet to access this"
           >
-            Pariola
-          </Link>
-        </h3>
-        <h3>
-          Design -&nbsp;
-          <Link
-            target="_blank"
-            rel="noreferrer noopener"
-            to="https://x.com/UI_Ninja_?s=09"
-            className="text-white cursor-pointer"
-            title="you might need internet to access this"
-          >
-            Chinemerem
+            VickyJay
           </Link>
         </h3>
       </div>
