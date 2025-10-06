@@ -27,7 +27,7 @@ export const projects = [
     name: "RideBase",
     desc: "Ridebase is a ride booking app that allows payments with crypto",
     lang: "React Native + Smart Wallet SDK",
-    link: "https://asksolomon.vercel.app/",
+    link: "https://bit.ly/4f4elGd",
   },
   {
     name: "Streamly",
@@ -39,7 +39,7 @@ export const projects = [
     name: "Ftty",
     desc: "A platform for trading in-game assets using cryptocurrency",
     lang: "NextJS + Tailwindcs",
-    link: "https://ftty.xyz/",
+    link: "https://www.ftty.xyz",
   },
   
 ];
