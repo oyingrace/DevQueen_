@@ -23,8 +23,8 @@ Welcome to my personal portfolio! This project showcases my blockchain developme
 ## Installation and Setup
 
 1.  Fork
-2.  Clone the forked repository to your local machine using `git clone`.
-3.  Navigate to the project directory: `cd devqueen_`.
+2.  Clone the forked repository to your local machine using `git clone https://github.com/oyingrace/DevQueen_.git`.
+3.  Navigate to the project directory: `cd Devqueen_`.
 4.  Install project dependencies using `npm install`.
 5.  Start the development server: `npm run dev`.
 6.  Open your web browser and navigate to `http://localhost:5173` to view the portfolio.
@@ -39,7 +39,7 @@ If you have any questions or would like to get in touch, you can reach me at:
 
 - Email: oyingrace307@gmail.com
 - GitHub: [DevQueen](https://github.com/oyingrace)
-- Portfolio: [preview](https://www.devqueen.vercel.app)
+- Portfolio: [preview](https://www.devqueen.xyz)
 
 
 Thank you for visiting my portfolio repository!
