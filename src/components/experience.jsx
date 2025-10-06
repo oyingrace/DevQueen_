@@ -93,12 +93,12 @@ const Experience = () => {
                 <p
                   className={`text-[#F3533F] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
-                  OminiPay, Lagos, NG.
+                  OmniPay, Lagos, NG.
                 </p>
                 <h5
                   className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}
                 >
-                  I work as a developer with the responsibility of
+                  I worked as a developer with the responsibility of
                   integrating Solana wallet functionality into a mobile app.
                 </h5>
               </div>
