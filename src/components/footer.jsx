@@ -18,8 +18,8 @@ const Footer = () => {
     <section className="mx-[30px] mt-[60px] pb-[20px] lg:pb-[50px] lg:mx-[76px] lg:mt-[150px]">
       {/* line */}
       <div className="lg:max-w-[13000px] lg:mx-[71px] h-[2px] mt-[63.37px] bg-[#0A1C20]"></div>
-      <div className="mt-[63px] flex flex-col-reverse justify-start gap-5 md:gap-0 md:flex md:flex-row md:justify-between md:items-center ">
-        <div className="flex flex-col justify-start items-start">
+      <div className="mt-[63px] flex flex-col-reverse justify-center items-center gap-5 md:gap-0 md:flex md:flex-row md:justify-between md:items-center ">
+        <div className="flex flex-col justify-center items-center md:justify-start md:items-start">
           <div className="flex flex-row items-center lg:gap-[4px]">
             <span>
               <Copyright className="size-[18px] md:size-[20px]" />
@@ -33,7 +33,7 @@ const Footer = () => {
             </p>
           </div>
         </div>
-        <div className="mt-[10px] md:mt-[65px] flex justify-start items-center gap-[20px] md:gap-[40px]">
+        <div className="mt-[10px] md:mt-[65px] flex justify-center items-center gap-[20px] md:gap-[40px]">
         
           <motion.a
             href="https://twitter.com/devqueen_"
@@ -78,7 +78,7 @@ const Footer = () => {
       </div>
 
       {/* Shout out */}
-      <div className=" flex_ flex-col gap-2 items-start justify-center text-center font-medium text-[#FFFFFF99] text-xs *:max-w-[320px] *:md:max-w-[992px] md:text-[18px]">
+      <div className=" flex flex-col gap-2 items-center justify-center text-center font-medium text-[#FFFFFF99] text-xs *:max-w-[320px] *:md:max-w-[992px] md:text-[18px]">
         <h3>
           Inspired by -&nbsp;
           <Link
