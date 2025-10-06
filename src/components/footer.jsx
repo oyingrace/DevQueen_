@@ -30,14 +30,8 @@ const Footer = () => {
                 {" "}
                 2025 
               </span>
-            {/*   <span className="text-[#FFFFFF] text-[14px] lg:text-base">
-                {new Date().getFullYear()}
-              </span> */}
             </p>
           </div>
-          <p className="text-[#FFFFFF99] transition-all duration-300 text-end text-sm lg:text-base mt-1">
-            {time}
-          </p>
         </div>
         <div className="mt-[10px] md:mt-[65px] flex justify-start items-center gap-[20px] md:gap-[40px]">
         
