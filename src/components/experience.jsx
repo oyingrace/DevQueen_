@@ -99,7 +99,7 @@ const Experience = () => {
                   className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}
                 >
                   I worked as a developer with the responsibility of
-                  integrating Solana wallet functionality into a mobile app.
+                  integrating Solana blockchain functionality into a mobile wallet app.
                 </h5>
               </div>
             </div>
