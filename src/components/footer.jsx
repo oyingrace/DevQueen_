@@ -78,7 +78,7 @@ const Footer = () => {
       </div>
 
       {/* Shout out */}
-      <div className=" flex flex-col gap-2 items-center justify-center text-center font-medium text-[#FFFFFF99] text-xs *:max-w-[320px] *:md:max-w-[992px] md:text-[18px]">
+      <div className=" flex flex-col gap-2 items-center justify-center text-center font-medium text-[#FFFFFF99] text-xs *:max-w-[320px] *:md:max-w-[992px] md:text-[18px] mt-8 md:mt-0">
         <h3>
           Inspired by -&nbsp;
           <Link
