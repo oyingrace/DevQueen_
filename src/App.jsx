@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { Scroll } from "./animation";
 import { Routes, Route } from "react-router-dom";
-import { Home, NotFound, Spotify, Test } from "./pages";
+import { Home, NotFound, Test } from "./pages";
 
 const App = () => {
   // ==== scroll no work sha imma try it later

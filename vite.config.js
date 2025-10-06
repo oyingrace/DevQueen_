@@ -9,6 +9,8 @@ export default defineConfig({
     Sitemap({
       hostname: "https://devqueen.xyz",
       dynamicRoutes: ["/"],
+      // Disable robots.txt generation to avoid ENOENT on certain CI environments
+      generateRobotsTxt: false,
     }),
   ],
 });
